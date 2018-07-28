@@ -1,2 +1,2 @@
-# My-First-demo-project
-SCCM
+#My-First-Demo-Project for SCCM
+related scripts
